@@ -1,0 +1,29 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.heroDiv{
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+    h1{
+        font-size: 50px;
+        font-weight: bold;
+    }
+    p{
+        font-size: 20px; 
+    }
+}
+
+.footer{
+    background-color:#212529 ;
+    padding-bottom: 20px;
+    p{
+        text-align: center;
+        color: white;
+        padding-top: 30px;
+    }
+}
